@@ -9,4 +9,7 @@ A secure password generator that helps users to create customizable and strong r
 - Fast and efficient password generation.
 - Responsive
 
-  
+## Technology Used
+- HTML
+- CSS
+- JavaScript
