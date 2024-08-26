@@ -13,3 +13,5 @@ A secure password generator that helps users to create customizable and strong r
 - HTML
 - CSS
 - JavaScript
+
+[Generate Your New Password]()
