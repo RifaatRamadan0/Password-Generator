@@ -14,4 +14,4 @@ A secure password generator that helps users to create customizable and strong r
 - CSS
 - JavaScript
 
-[Generate Your New Password]()
+[Generate Your New Password](https://rifaatramadan0.github.io/Password-Generator/)
